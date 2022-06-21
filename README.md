@@ -1,6 +1,7 @@
 # Lista_de_tarefas_MVC
 ## CRUD Completo (Create, Read, Update e Delete)
 Esta aplicação é uma lista de tarefas feita em Node.js, no Padrão MCV (Model, View, Controller).
+Desenvolvida no Curso: "Node.js do Zero a Maestria com diversos Projetos" juntamente com o Prof° Matheus Battisti pela Udemy Academy.
 
 ## Tecnologias usadas
 * Linguagem: JavaScript
