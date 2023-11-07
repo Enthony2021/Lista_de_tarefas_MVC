@@ -4,17 +4,10 @@ Esta aplicação é uma lista de tarefas feita em Node.js, no Padrão MCV (Model
 Desenvolvida no Curso: "Node.js do Zero a Maestria com diversos Projetos" juntamente com o Prof° Matheus Battisti pela Udemy Academy.
 
 ## Tecnologias usadas
-* Linguagem: JavaScript
+* Linguagem: TypeScript
 * Banco de Dados: Mysql
 * FrontEnd: handlebars
 * BackEnd: Node.js
-
-## Dependências
-* express
-* express-handlebars
-* mysql2
-* sequelize
-* nodemon
 
 ## Como iniciar esta aplicação:
 
@@ -40,3 +33,7 @@ Desenvolvida no Curso: "Node.js do Zero a Maestria com diversos Projetos" juntam
 As rotas desta aplicação estão no arquivo tasksRoutes.js
 Sendo a rota principal: http://localhost:3000/tasks/
 
+## Atualizações
+* Aplicação reescrita em TypeScript
+* Aplicação do .env para variáveis de ambiente
+* Mudança do código para paradigma POO
