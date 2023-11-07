@@ -25,9 +25,10 @@ Desenvolvida no Curso: "Node.js do Zero a Maestria com diversos Projetos" juntam
 1. Fazer download ou cópia do repositório
 2. Abra a pasta raiz no Terminal CMD ou Power Shell
 3. Digite o comando npm install: será criada a pasta node_modules na pasta raiz do projeto
-4. Iniciar XAMP e Mysql Workbench em usuário root 
-5. No CMD ou Power Shell digite o comando npm start para iniciar a aplicação: Se estiver tudo ok aparecerá a seguinte mensagem, server Funcionando: http://localhost:3000
-6. Para derrubar o server: *crtl + c* no terminal cmd e *y* logo após
+4. Renomeie o arquivo ".env.example"  para ".env"
+5. Iniciar XAMP e Mysql Workbench em usuário root 
+6. No CMD ou Power Shell digite o comando npm start para iniciar a aplicação: Se estiver tudo ok aparecerá a seguinte mensagem, server Funcionando: http://localhost:3000
+7. Para derrubar o server: *crtl + c* no terminal cmd e *y* logo após
 
 ### Rotas
 As rotas desta aplicação estão no arquivo tasksRoutes.js
